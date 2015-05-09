@@ -1,0 +1,1 @@
+http://10.1.15.124:9002/pb/jump/p.do?jtype=1&url=http%3A%2F%2Fsell.koudai.com%3A2210%2Fh5%2FloginByApp.do%3FisApp%3Dtrue%26isKdweidian%3Dtrue%26appName%3Dkdweidian%26supportgesture%3Dfalse%26version%3D%23version%23%26wfr%3D%26wduserID%3D%23wduserID%23%26wduss%3D%23wduss%23
